@@ -95,6 +95,7 @@ main {
     padding: 5px;
     border-style: none;
     align-self: center;
+    cursor: pointer;
 }
 
 .perfil-share {
